@@ -14,7 +14,7 @@ T pop_front(); // Remueve el elemento al comienzo
 
 T pop_back(); // Remueve el elemento al final
 
-T operator[ ](int); // Retorna el elemento en la posición indicada
+T operator[] (int); // Retorna el elemento en la posición indicada
 
 bool empty(); // Retorna si la lista está vacía o no
 
